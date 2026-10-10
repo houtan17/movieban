@@ -6,7 +6,7 @@ Fully usable offline after the first visit. No accounts, no backend.
 
 Stack: React + JavaScript (Vite), Tailwind CSS, Lucide icons.
 
-## Setup (Windows 11)
+## Setup 
 
 Requires Node.js 20+.
 
